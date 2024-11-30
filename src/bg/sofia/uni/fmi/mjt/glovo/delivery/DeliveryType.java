@@ -16,7 +16,7 @@ public enum DeliveryType {
         return costPerKM;
     }
 
-    public int getFuelEfficiency() {
+    public int geTime() {
         return timePerKM;
     }
 }
